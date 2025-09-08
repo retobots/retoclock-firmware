@@ -8,7 +8,7 @@
 #include "hal/displayModule.h"
 #include "hal/TftDisplay.h"
 
-
+// Huy
 #define DHT_PIN 17
 #define DHTTYPE DHT22
 #define BUTTON_PIN 15
